@@ -1,6 +1,8 @@
 [
     {
         "id": "1",
+
+        "about":"Lie on a flat workout bench with your feet flat on the floor. Hold the dumbbells above your chest.",
       
         "name": "Dumbble",
   
@@ -17,6 +19,8 @@
       "id": "2",
       
       "name": "TreadMill",
+      "about":"Treadmills are among the most effective types of exercise equipment — if you know how to use them. ",
+
 
       "age": "25-30",
 
@@ -31,6 +35,8 @@
         "id": "3",
       
         "name": "Jump Rope",
+
+        "about":"Work in jumping rope as part of your routine on an every-other-day cycle.",
   
         "age": "30-35",
         
@@ -45,6 +51,8 @@
         "id": "4",
       
         "name": "Smith machine",
+
+        "about":"The Smith Machine can be used for squats, bench press, bicep curls and deadlifts to name a few. ",
   
         "age": "35-40",
         
@@ -59,6 +67,8 @@
         "id": "5",
       
         "name": "Stationary Bicycle",
+
+        "about":"It's more of a total-body workout than biking on the road, which is mostly a lower-body cardio workout. ",
   
         "age": "40-45",
         
@@ -73,6 +83,8 @@
         "id": "6",
       
         "name": "Barbell",
+
+        "about":"The barbell might be the most iconic piece of weightlifting equipment you can own. ",
   
         "age": "40-50",
         
