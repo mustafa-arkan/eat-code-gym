@@ -1,0 +1,86 @@
+[
+    {
+        "id": "1",
+      
+        "name": "Dumbble",
+  
+        "age": "20-25",
+        
+        "time": "60s",
+  
+  
+        
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg"
+      
+    },
+    {
+      "id": "2",
+      
+      "name": "TreadMill",
+
+      "age": "25-30",
+
+      "time": "120s",
+
+
+      
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg"
+      
+    },
+    {
+        "id": "3",
+      
+        "name": "Jump Rope",
+  
+        "age": "30-35",
+        
+        "time": "180s",
+  
+  
+        
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg"
+     
+    },
+    {
+        "id": "4",
+      
+        "name": "Smith machine",
+  
+        "age": "35-40",
+        
+        "time": "60s",
+  
+  
+        
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg"
+      
+    },
+    {
+        "id": "5",
+      
+        "name": "Stationary Bicycle",
+  
+        "age": "40-45",
+        
+        "time": "120s",
+  
+  
+        
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg"
+      
+    },
+    {
+        "id": "6",
+      
+        "name": "Barbell",
+  
+        "age": "40-50",
+        
+        "time": "180s",
+  
+  
+        
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg"
+      
+    }
+]
