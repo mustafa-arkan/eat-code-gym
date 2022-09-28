@@ -3,6 +3,7 @@
         "id": "1",
       
         "name": "Dumbble",
+        "about":"Lie on a flat workout bench with your feet flat on the floor. Hold the dumbbells above your chest.",
   
         "age": "20-25",
         
@@ -10,7 +11,7 @@
   
   
         
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg"
+        "img": "https://img.freepik.com/free-photo/young-fitness-man-studio_7502-5005.jpg?w=740&t=st=1664391116~exp=1664391716~hmac=b6abfcec89194aae114986a826b117e01ff2b30fd70bd61d8c4aa4179e89546f"
       
     },
     {
@@ -18,19 +19,23 @@
       
       "name": "TreadMill",
 
+      "about":"Treadmills are among the most effective types of exercise equipment — if you know how to use them. ",
+
       "age": "25-30",
 
       "time": "120s",
 
 
       
-      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg"
+      "img": "https://img.freepik.com/free-photo/side-view-man-with-medical-mask-treadmill-gym_23-2148769915.jpg?w=360&t=st=1664391182~exp=1664391782~hmac=76053d8ee44975552c6b98e11a8b4b3299f9aef07b2056dda9eb8134332980d7"
       
     },
     {
         "id": "3",
       
         "name": "Jump Rope",
+
+        "about":"Work in jumping rope as part of your routine on an every-other-day cycle.Most effective types of exercise.",
   
         "age": "30-35",
         
@@ -38,13 +43,15 @@
   
   
         
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg"
+        "img": "https://img.freepik.com/free-photo/jump-ropes-grass_93675-129878.jpg?w=740&t=st=1664391248~exp=1664391848~hmac=c36fd66a3f76106eacb86bd5e4186ed316bde3b94c404d7d1d905b80cc06940e"
      
     },
     {
         "id": "4",
       
         "name": "Smith machine",
+
+        "about":"The Smith Machine can be used for squats, bench press, bicep curls and deadlifts to name a few. ", 
   
         "age": "35-40",
         
@@ -52,13 +59,15 @@
   
   
         
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg"
+        "img": "https://st.depositphotos.com/2389277/4655/i/950/depositphotos_46556625-stock-photo-shoulder-exercises-on-a-smith.jpg"
       
     },
     {
         "id": "5",
       
         "name": "Stationary Bicycle",
+
+        "about":"It's more of a total-body workout than biking on the road, which is mostly a lower-body cardio workout. ",
   
         "age": "40-45",
         
@@ -66,13 +75,16 @@
   
   
         
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWOwKqSYQUaxj0tK1ycCujZygZn4w_9C4ZA&usqp=CAU"
       
     },
     {
         "id": "6",
       
         "name": "Barbell",
+
+        "about":"The barbell might be the most iconic piece of weightlifting equipment you can own. ",
+  
   
         "age": "40-50",
         
@@ -80,7 +92,7 @@
   
   
         
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg"
+        "img": "https://images.unsplash.com/photo-1521804906057-1df8fdb718b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGdpbXxlbnwwfHwwfHw%3D&w=1000&q=80"
       
     }
 ]

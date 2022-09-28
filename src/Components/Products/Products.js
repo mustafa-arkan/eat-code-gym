@@ -6,7 +6,7 @@ import './Products.css'
 
 const Products = (props) => {
 
-const {img,name,age,time}=props.card
+const {img,name,about,age,time}=props.card
 
 
     return (
@@ -17,14 +17,10 @@ const {img,name,age,time}=props.card
 <div className='card-info'>
 
 <p>Name: {name}</p>
-
+<p>{about}</p>
 
 <p>For Age: {age}</p>
 <p>Time: {time}</p>
-
-
-
-
 
 </div>
 

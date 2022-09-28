@@ -2,10 +2,13 @@
 
     width: 300px;
 
-    height: 480px;
+    height: 555px;
     border: 1px solid #95A0A7;
     border-radius:8px ;
 
+    margin-left: 50px;
+    margin-top: 30px;
+    
 
 
 }
@@ -37,6 +40,6 @@ text-align: left;
     background-color: #FFE0B3;
     border: 0;
     border-radius: 0px 0px 8px 8px;
-    /* position: absolute; */
+    
     bottom: 0;
 }
