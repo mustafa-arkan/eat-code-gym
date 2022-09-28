@@ -15,4 +15,28 @@ grid-template-columns: 4fr 1fr;
 grid-template-columns: repeat(3,1fr);
 
 gap: 45px;
+
 }
+.right-side{
+    background-color: #1E2B47;
+    margin-top: -75px;
+    color: #fff;
+
+}
+.right-side img{
+
+
+border-radius: 50%;
+height: 150px;
+    width: 150px;
+
+    
+}
+.btn-break{
+    background-color: aliceblue;
+    margin: 5px;
+    padding-left: 2px;
+}
+
+
+
