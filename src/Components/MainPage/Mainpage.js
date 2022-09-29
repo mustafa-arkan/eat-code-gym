@@ -16,6 +16,8 @@ const [cards,setCards]=useState([])
 
 const[calc,setCalc]=useState([])
 
+//const[break,setBreak]=useState([])   //new
+
 useEffect(()=>{
 
 
@@ -30,6 +32,8 @@ const handleAddToCart=(card)=>{
 
      console.log(card)
     const newCalc=[...calc,card]
+
+    //const newBreak=[...break,card]    //new
 
     setCalc(newCalc)
 

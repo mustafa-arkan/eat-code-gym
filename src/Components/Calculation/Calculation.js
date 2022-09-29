@@ -1,4 +1,5 @@
-import React from 'react';
+
+import { useState } from 'react';
 import logo1 from '../../Images/logo1.jpeg'
 
   
@@ -10,6 +11,63 @@ import './Calculation.css'
 
 
 const Calculation = (props) => {
+
+    const [brtime,setBrtime]=useState(0)
+
+    
+
+
+    const breakTime=()=>{
+
+const newBrtime=brtime + 10
+localStorage.setItem("Break Time",10)
+
+setBrtime(newBrtime)
+
+    }
+
+    const breaktwoTime=()=>{
+
+        const newBrtime=brtime + 20
+        localStorage.setItem("Break Time",20)
+        
+        setBrtime(newBrtime)
+        
+        
+            }
+            
+            const breakthreeTime=()=>{
+
+                const newBrtime=brtime + 30
+                localStorage.setItem("Break Time",30)
+                
+                setBrtime(newBrtime)
+                
+                
+                    }
+                    const breakfourTime=()=>{
+
+                        const newBrtime=brtime + 40
+                        localStorage.setItem("Break Time",40)
+                        
+                        setBrtime(newBrtime)
+                        
+                        
+                            }
+
+
+                            
+
+const addToCart=(time)=>{
+
+console.log('added')
+
+
+}
+
+
+
+
 
 const {calc}=props
 
@@ -40,10 +98,10 @@ for(const card of calc){
 
 
 <div className='btn-break'>
-<button>10s</button>
-<button>20s</button>
-<button>30s</button>
-<button>40s</button>
+<button  onClick={breakTime} >10s</button>
+<button onClick={breaktwoTime} >20s</button>
+<button onClick={breakthreeTime}>30s</button>
+<button onClick={breakfourTime}>40s</button>
 
 
 </div>
@@ -54,7 +112,7 @@ for(const card of calc){
 <p>Exercise Time:{total} sec </p>
 
 
-<p>Break Time:</p>
+<p>Break Time:{brtime}</p>
 
 
 
