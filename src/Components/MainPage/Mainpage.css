@@ -21,9 +21,9 @@ gap: 5px;
 
 .right-side{
     background-color: #1E2B47;
-    margin-top: -75px;
+    margin-top: 28px;
     color: #fff;
-    height: 630px;
+    height: 640px;
     position: sticky;
     top: 0;
 
@@ -93,20 +93,20 @@ margin: 7px;
 }
 
 
-
-
-
 .question{
 
-margin-left: 50px;
-margin-top: 15px;
-border: 2px solid black;
+    margin-left: 50px;
+    margin-top: 15px;
+    border: 2px solid black;
+    
+    
+    
+    
+    
+    }
 
 
 
-
-
-}
 
 
 

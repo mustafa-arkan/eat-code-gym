@@ -8,23 +8,28 @@ const Header = () => {
 
 
 
-        <div>
+        
            <nav className='header'>
+
+
             
+            <div className='logo-title'>
+
             <img src={logo} alt="" className="src" />
             <h2>Eat Code Gym</h2>
             
+            </div>
             
             
             
             
             
-            </nav> 
+           
 
 
 
-
-        </div>
+</nav> 
+        
     );
 };
 

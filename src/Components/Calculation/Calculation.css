@@ -1,0 +1,39 @@
+.btn-break{
+
+
+padding: 10px;
+    display: flex;
+    
+    
+}
+
+.btn-break li{
+
+margin: 6px;
+border: 2px solid black;
+
+border-radius: 50px;
+
+margin-left: 30px;
+
+
+}
+
+.nav-link{
+
+background-color: black;
+color:#fff;
+font-weight: 30px;
+border: 2px solid black;
+border-radius: 50px;
+
+
+}
+
+.btn-act{
+
+padding: 9px;
+
+
+}
+
