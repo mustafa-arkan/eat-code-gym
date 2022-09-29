@@ -14,13 +14,14 @@ grid-template-columns: 4fr 1fr;
 
 grid-template-columns: repeat(3,1fr);
 
-gap: 45px;
+gap: 5px;
 
 }
 .right-side{
     background-color: #1E2B47;
     margin-top: -75px;
     color: #fff;
+    height: 630px;
 
 }
 .right-side img{
@@ -32,10 +33,71 @@ height: 150px;
 
     
 }
+
+.break{
+
+margin: 0;
+
+
+}
 .btn-break{
     background-color: aliceblue;
     margin: 5px;
-    padding-left: 2px;
+    /* padding-left: 2px; */
+    padding: 7px;
+    border-radius: 3px;
+    
+}
+
+.btn-break button{
+
+ 
+ margin: 3px; 
+ border: 1px solid black;
+ border-radius: 20px;
+
+}
+
+.exercise{
+    color: #fff;
+    display: grid;
+    grid-template-rows: auto;
+    gap: 15px;
+    
+}
+
+
+.exercise-field{
+
+height: 35px;
+border: 2px solid black;
+
+border-radius: 3px;
+margin: 7px;
+
+
+}
+.btn-act{
+
+    width: 50%;
+    
+    background-color: #FFE0B3;
+    border: 0;
+    border-radius: 0px 0px 8px 8px;
+
+
+}
+
+.question{
+
+margin-left: 50px;
+margin-top: 15px;
+border: 2px solid black;
+
+
+
+
+
 }
 
 
