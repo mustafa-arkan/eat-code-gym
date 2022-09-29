@@ -22,6 +22,8 @@ gap: 5px;
     margin-top: -75px;
     color: #fff;
     height: 630px;
+    position: sticky;
+    top: 0;
 
 }
 .right-side img{
@@ -102,3 +104,13 @@ border: 2px solid black;
 
 
 
+
+@media only screen and (max-width: 600px) {
+
+
+    
+    
+    
+    
+        
+    }

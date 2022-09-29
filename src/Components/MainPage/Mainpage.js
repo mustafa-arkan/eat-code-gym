@@ -76,11 +76,10 @@ card={card}
 <div className='exercise'>
 <h3>Exercise Details</h3>
 
-<input type="text" className="exercise-field" id="exampleInputEmail1" aria-describedby="emailHelp"></input>
+<p>Exercise Time: <span>0</span> sec</p>
 
 
-<input type="text" className="exercise-field" id="exampleInputEmail1" aria-describedby="emailHelp"></input>
-
+<p>Break Time: <span>0</span> sec</p>
 
 
 
