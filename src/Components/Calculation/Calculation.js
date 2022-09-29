@@ -1,6 +1,8 @@
 
 import { useState } from 'react';
 import logo1 from '../../Images/logo1.jpeg'
+import { ToastContainer, toast } from 'react-toastify';
+  import 'react-toastify/dist/ReactToastify.css';
 
   
 
@@ -58,12 +60,7 @@ setBrtime(newBrtime)
 
                             
 
-const addToCart=(time)=>{
 
-console.log('added')
-
-
-}
 
 
 
@@ -82,7 +79,9 @@ for(const card of calc){
 
 
 
-
+const diffToast=()=>{
+    toast("Woow!You Successfully completed your daily activity!")
+}
 
 
 
@@ -119,12 +118,15 @@ for(const card of calc){
 </div>
 
 <div>
-        <button >Activity Completed </button>
+        <button onClick={diffToast}>Activity Completed </button>
+        <ToastContainer />
+        
        
       </div>
 
 
         </div>
+        
         
     );
 };
