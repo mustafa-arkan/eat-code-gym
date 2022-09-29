@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Products from '../Products/Products';
 
-import logo1 from '../../Images/logo1.jpeg'
+
 
 import './Mainpage.css'
 import Calculation from '../Calculation/Calculation';
@@ -14,6 +14,8 @@ const Mainpage = () => {
 
 const [cards,setCards]=useState([])
 
+const[calc,setCalc]=useState([])
+
 useEffect(()=>{
 
 
@@ -24,7 +26,14 @@ fetch('card.json')
 
 } ,[])
 
+const handleAddToCart=(card)=>{
 
+    console.log(card)
+    const newCalc=[...calc,card]
+
+    setCalc(newCalc)
+   
+}
 
     return (
         <div className='card-container'>
@@ -39,6 +48,7 @@ cards.map(card=><Products
 key={card.id}
 
 card={card}
+handleAddToCart={handleAddToCart}
 
 ></Products>)
 
@@ -54,6 +64,12 @@ card={card}
 <div className='right-side' >
 
 <Calculation></Calculation>
+
+
+
+
+
+
 
 
 </div>

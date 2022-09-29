@@ -1,5 +1,5 @@
 import React from 'react';
-import logo1 from '../../Images/'
+import logo1 from '../../Images/logo1.jpeg'
 
 import './Calculation.css'
 
@@ -7,6 +7,11 @@ import './Calculation.css'
 
 
 const Calculation = () => {
+
+
+
+
+
 
 
 
@@ -31,10 +36,10 @@ const Calculation = () => {
 <div className='exercise'>
 <h3>Exercise Details</h3>
 
-<p>Exercise Time: <span>0</span> sec</p>
+<p>Exercise Time: </p>
 
 
-<p>Break Time: <span>0</span> sec</p>
+<p>Break Time:</p>
 
 
 

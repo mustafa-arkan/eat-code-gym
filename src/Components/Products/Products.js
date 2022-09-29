@@ -4,9 +4,10 @@ import './Products.css'
 
 
 
-const Products = (props) => {
+const Products = ({card,handleAddToCart}) => {
+// const{card,handleAddToCart}=props
+const {img,name,about,age,time}=card
 
-const {img,name,about,age,time}=props.card
 
 
     return (
@@ -24,7 +25,7 @@ const {img,name,about,age,time}=props.card
 
 </div>
 
-<button className='btn-list'>
+<button onClick={()=>handleAddToCart(card)} className='btn-list'>
             <p>Add to List</p>
             </button>
 
