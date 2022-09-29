@@ -28,10 +28,12 @@ fetch('card.json')
 
 const handleAddToCart=(card)=>{
 
-    console.log(card)
+     console.log(card)
     const newCalc=[...calc,card]
 
     setCalc(newCalc)
+
+
    
 }
 
@@ -63,7 +65,9 @@ handleAddToCart={handleAddToCart}
 
 <div className='right-side' >
 
-<Calculation></Calculation>
+<Calculation calc={calc}></Calculation>
+
+
 
 
 

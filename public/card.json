@@ -7,7 +7,7 @@
   
         "age": "20-25",
         
-        "time": "60s",
+        "time": 60,
   
   
         
@@ -23,7 +23,7 @@
 
       "age": "25-30",
 
-      "time": "120s",
+      "time": 120,
 
 
       
@@ -39,7 +39,7 @@
   
         "age": "30-35",
         
-        "time": "180s",
+        "time": 180,
   
   
         
@@ -54,8 +54,8 @@
         "about":"The Smith Machine can be used for squats, bench press, bicep curls and deadlifts to name a few. ", 
   
         "age": "35-40",
-        
-        "time": "60s",
+    
+        "time": 60,
   
   
         
@@ -71,7 +71,7 @@
   
         "age": "40-45",
         
-        "time": "120s",
+        "time": 120,
   
   
         
@@ -88,7 +88,7 @@
   
         "age": "40-50",
         
-        "time": "180s",
+        "time": 180,
   
   
         
